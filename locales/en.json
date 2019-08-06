@@ -1,0 +1,41 @@
+{
+  "title": "S'uptime",
+  "description": "Un maravilloso Sistema de Página de Estado de código abierto.",
+  "links": {
+    "contact": "https://statusfy.co/es/contact",
+    "suport": "https://statusfy.co/es/support",
+    "home": "https://statusfy.co/es/"
+  },
+  "systems": {
+    "items": {
+      "outsystems": {
+        "title": "Outsystems",
+        "description": "Some helper text"
+      },
+      "lgss-firmstep": {
+        "title": "Firmstep - LGSS"
+      },
+      "ncc-firmstep": {
+        "title": "Firmstep - Northamptonshire County Council"
+      },
+      "ccc-firmstep": {
+        "title": "Firmstep - Cambridgeshire County Council"
+      },
+      "mkc-firmstep": {
+        "title": "Firmstep - Milton Keynes Council"
+      },
+      "lgss-website": {
+        "title": "LGSS website"
+      },
+      "lgss-digital-website": {
+        "title": "LGSS Digital website"
+      },
+      "lgss-pensions-website": {
+        "title": "LGSS Pensions website"
+      },
+      "lgss-revs-bens-website": {
+        "title": "LGSS Revenues and Benefits website"
+      }
+    }
+  }
+}
